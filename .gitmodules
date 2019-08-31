@@ -1,0 +1,9 @@
+[submodule "bgfx"]
+	path = bgfx
+	url = git@github.com:raptoravis/bgfx.git
+[submodule "bx"]
+	path = bx
+	url = git@github.com:raptoravis/bx.git
+[submodule "bimg"]
+	path = bimg
+	url = git@github.com:raptoravis/bimg.git
