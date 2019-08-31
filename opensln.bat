@@ -1,0 +1,1 @@
+start .\bgfx\.build\projects\vs2017\bgfx.sln
